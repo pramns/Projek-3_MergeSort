@@ -21,4 +21,11 @@ cout << "\n------------------------------" << endl;
 cout << "\nInputkan Isi element array" << endl;
 cout << "\n------------------------------" << endl;
 
+for(int i=0; i<0; i++){
+        cout << "Array index ke - " << i << " : ";
+        cin >> arr[i];
+    }
+}
+
+
 
